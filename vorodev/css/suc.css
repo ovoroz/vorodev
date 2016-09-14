@@ -1,0 +1,20 @@
+body {
+margin: 0;
+padding: 0;
+background-image: url("/img/bg.jpg");
+background-color: black;
+}
+
+#main {
+width:720px;
+margin: 350px auto 0 auto;
+padding: 15px;
+}
+
+h1 {
+text-align: center;
+color: gold;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: black;
+font-family: 'Baloo Paaji', cursive;
+}				

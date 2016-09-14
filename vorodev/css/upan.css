@@ -1,0 +1,24 @@
+
+#upanelcont {
+  width: 600px;
+  height: 500px;
+  background-color:#e1e1e1;
+  margin: 100px auto 30px auto;
+}
+
+#userpic {
+  width:125px;
+  height:125px;
+  background-color:red;
+  float:left;
+}
+
+#upanmain {
+  float:left;
+  margin-left:10px;
+  font-size: 35px;
+}
+
+#prank {
+  font-size: 20px;
+}
